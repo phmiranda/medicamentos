@@ -1,0 +1,9 @@
+# configurações do projeto
+.idea/
+nbproject/
+
+# configurações do Banco
+config/config.ini
+
+# biblitoecas do projeto
+vendor/
