@@ -10,7 +10,7 @@
 class LoginUsuarioController {
     // função de controle da autenticação de usuários
     public function onLogin(){
-        
+
     }
 
     // comentário
