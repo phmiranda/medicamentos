@@ -7,4 +7,3 @@
  */
 
 // comentário
-echo phpinfo();
