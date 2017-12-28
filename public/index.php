@@ -7,3 +7,6 @@
  */
 
 // comentário
+echo "Sistema de Gerenciamento de Contatos";
+echo "</br>";
+echo phpinfo();
