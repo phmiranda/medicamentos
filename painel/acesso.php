@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="../imagens/logos/bootstrap.png">
-    <link rel="stylesheet" href="public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="public/css/assets.css">
+    <link rel="stylesheet" href="../public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../public/css/assets.css">
 </head>
 <body>
 <!-- menu do administrador -->
@@ -14,13 +14,13 @@
     <div class="container">
         <!-- comentário -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="/public/index.php"> Agenda </a>
+            <a class="navbar-brand" href="<? echo $_SERVER['DOCUMENT_ROOT']?>"> Agenda </a>
         </div>
 
         <!-- comentário -->
         <div>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#"> Área Restrita </a></li>
+                <li><a href="acesso.php"> Área Restrita </a></li>
             </ul>
         </div>
     </div>
@@ -55,8 +55,8 @@
 </div>
 
 <!-- comentário -->
-<script src="public/js/jquery-3.2.1.min.js"></script>
-<script src="public/js/bootstrap.min.js"></script>
+<script src="../public/js/jquery-3.2.1.min.js"></script>
+<script src="../public/js/bootstrap.min.js"></script>
 </body>
 </html>
 
