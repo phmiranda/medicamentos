@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="http://localhost/tecnico/imagens/briefing/Logo_01.png">
-    <link rel="stylesheet" href="http://localhost/tecnico/public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://localhost/tecnico/public/css/assets.css">
+    <link rel="icon" href="../imagens/logos/bootstrap.png">
+    <link rel="stylesheet" href="public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="public/css/assets.css">
 </head>
 <body>
 <!-- menu do administrador -->
@@ -14,7 +14,7 @@
     <div class="container">
         <!-- comentário -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="http://localhost/agenda/public/index.php"> Agenda </a>
+            <a class="navbar-brand" href="/public/index.php"> Agenda </a>
         </div>
 
         <!-- comentário -->
@@ -34,7 +34,7 @@
                 <div class="form-wrap">
                     <h1> ÁREA RESTRITA </h1>
                     <hr>
-                    <form role="form" method="post" action="http://localhost/tecnico/controls/loginController.php">
+                    <form role="form" method="post" action="#">
                         <div class="form-group">
                             <label for="email" class="sr-only"> Email: </label>
                             <input class="form-control" type="email" name="email" placeholder="email@provedor.com">
@@ -55,8 +55,8 @@
 </div>
 
 <!-- comentário -->
-<script src="http://localhost/tecnico/public/js/jquery-3.2.1.min.js"></script>
-<script src="http://localhost/tecnico/public/js/bootstrap.min.js"></script>
+<script src="public/js/jquery-3.2.1.min.js"></script>
+<script src="public/js/bootstrap.min.js"></script>
 </body>
 </html>
 
