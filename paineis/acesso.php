@@ -14,13 +14,13 @@
     <div class="container">
         <!-- comentário -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="<? echo $_SERVER['DOCUMENT_ROOT']?>"> Agenda </a>
+            <a class="navbar-brand" href="#"> Agenda </a>
         </div>
 
         <!-- comentário -->
         <div>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="acesso.php"> Área Restrita </a></li>
+                <li><a href="acesso.php"> Funcionalidade </a></li>
             </ul>
         </div>
     </div>
