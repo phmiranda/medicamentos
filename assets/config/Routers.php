@@ -11,7 +11,7 @@ class Routers {
     // comentário
     public function baseURL($base){
         if($_SERVER != null){
-            require_once "../../painel/login.php";
+            require_once "../../painel/acesso.php";
         }
     }
 }

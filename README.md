@@ -2,7 +2,6 @@
 
 ## Introdução
 
-
 ## Objetivo do Sistema
 
 ## Tecnologias Utilizadas
