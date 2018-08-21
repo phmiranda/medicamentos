@@ -6,7 +6,9 @@
  * Time: 17:07
  */
 
-// comentário
+// comentários.
 class Contato {
-    // comentário
+    // comentários.
+    public $celular;
+    public $telefone;
 }
