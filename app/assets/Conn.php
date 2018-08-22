@@ -9,4 +9,8 @@
 // comentários.
 class Conn {
     // comentários.
+    public function connect(){
+        $conn = new PDO("","","");
+        return $conn;
+    }
 }

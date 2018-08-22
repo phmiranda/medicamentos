@@ -17,4 +17,29 @@ class Usuario {
     public function index(){
 
     }
+
+    // comentários.
+    public function create(){
+
+    }
+
+    // comentários.
+    public function edit(){
+
+    }
+
+    // comentários.
+    public function delete(){
+
+    }
+
+    // comentários.
+    public function find(){
+
+    }
+
+    // comentários.
+    public function findBy(){
+
+    }
 }

@@ -1,13 +1,9 @@
-# Escola Técnica de Ceilândia
+# Escola Técnica de Ceilândia 
+
+> Professora: Sandra
+
+> Curso: Programador Web
+
+> Carga: 320 horas
 
 ## Introdução
-
-## Objetivo do Sistema
-
-## Tecnologias Utilizadas
-
-## Configuração Inicial
-
-## Documentação do Software
-
-## Manual do Usuário
