@@ -1,9 +1,11 @@
 # configurações do projeto
 .idea/
 nbproject/
+.vscode/
 
 # configurações do Banco
 config/config.ini
+assets/database/Conexao.php
 
 # biblitoecas do projeto
 vendor/
