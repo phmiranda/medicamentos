@@ -7,5 +7,9 @@ nbproject/
 config/config.ini
 assets/database/Conexao.php
 
+# instalação de dependências e pacotes.
+composer.lock
+package-lock.json
+
 # biblitoecas do projeto
 vendor/

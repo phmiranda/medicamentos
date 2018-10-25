@@ -1,7 +1,19 @@
 {
+  "name":"phmiranda/agenda",
+  "type": "sistema",
+  "license": "MIT",
+  "description": "sistema de administração de contatos e envio de e-mails desenvolvido durante o curso de programador web da escola técnica de ceilândia.",
+  "authors": [
+      {
+        "name": "Pedro Henrique Marques Miranda",
+        "email": "pehhagah.1607@gmail.com",
+        "homepage": "https://phmiranda.com.br",
+        "role": "Developer"
+      }
+  ],
     "require": {
-        "almasaeed2010/adminlte": "~2.4",
-        "twbs/bootstrap": "3.3.7",
-        "components/jquery": "^3.3"
-    }
+      "almasaeed2010/adminlte": "~2.4",
+      "components/jquery": "^3.3",
+      "twbs/bootstrap": "3.3.7"
+  }
 }
